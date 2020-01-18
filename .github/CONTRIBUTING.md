@@ -1,6 +1,6 @@
-# Welcome to the contributing guide for PeerTube
+# Bem-vindo ao guiia de contribuição para o PeerTube
 
-Interested in contributing? Awesome!
+Interessado em contribuir? Fantástico!
 
 **This guide will present you the following contribution topics:**
 
